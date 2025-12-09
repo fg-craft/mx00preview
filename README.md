@@ -1,6 +1,6 @@
 # mx00preview
 
-## What is mx00?
+## 🎹What is mx00?
 mx00 is a prototype VSTi currently in development, utilizing common Phase Modulation. 
 
 It uses the JUCE framework.
