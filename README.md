@@ -18,11 +18,6 @@ It uses the JUCE framework.
 - Implementing the GUI is overwhelmingly more difficult than implementing the modulation engine.
 
 
-<img src="https://github.com/fg-craft/mx00preview/blob/main/images/sample1.png" alt="サンプル画像１" width="300">
-<img src="https://github.com/fg-craft/mx00preview/blob/main/images/sample2.png" alt="サンプル画像２" width="300">
-<img src="https://github.com/fg-craft/mx00preview/blob/main/images/sample3.png" alt="サンプル画像３" width="300">
-<img src="https://github.com/fg-craft/mx00preview/blob/main/images/sample4.png" alt="サンプル画像４" width="300">
-20260117_2
 <img src="https://github.com/fg-craft/mx00preview/blob/main/images/20260117_1.png" alt="サンプル画像20260117-1" width="300">
 <img src="https://github.com/fg-craft/mx00preview/blob/main/images/20260117_2.png" alt="サンプル画像20260117-2" width="300">
 <img src="https://github.com/fg-craft/mx00preview/blob/main/images/20260117_3.png" alt="サンプル画像20260117-3" width="300">
