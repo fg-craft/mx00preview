@@ -18,6 +18,7 @@ It uses the JUCE framework.
 - Implementing the GUI is overwhelmingly more difficult than implementing the modulation engine.
 - Considering how to port AWM2 WAVEFORMS. Maybe I'll create an auto-sampling tool and try recording from the actual hardware.
 
+<img src="https://github.com/fg-craft/mx00preview/blob/main/images/2026-02-24 174958.png" alt="2026-02-24 174958" width="300">
 <img src="https://github.com/fg-craft/mx00preview/blob/main/images/2026-02-24 174331.png" alt="2026-02-24 174331" width="300">
 <img src="https://github.com/fg-craft/mx00preview/blob/main/images/2026-02-14 171236.png" alt="2026-02-14 171236" width="300">
 <img src="https://github.com/fg-craft/mx00preview/blob/main/images/20260117_1.png" alt="サンプル画像20260117-1" width="300">
